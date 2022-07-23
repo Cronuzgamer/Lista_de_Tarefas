@@ -10,4 +10,4 @@ Lista simples de tarefas.
 
 
 
-![lista](C:\Users\Gabriel\Desktop\lista.png)
+![lista](https://github.com/Cronuzgamer/Lista_de_Tarefas/blob/master/assets/lista.png)
