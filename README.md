@@ -1,4 +1,4 @@
-# To-do list
+# 📋 To-do list 📋
 
 Lista simples de tarefas. 
 
